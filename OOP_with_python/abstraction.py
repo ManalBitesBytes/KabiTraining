@@ -45,3 +45,6 @@ class Payroll:
             print(f"{emp.first_name} {emp.last_name}\t ${emp.show_salary()}")
 
 
+print("")
+
+
